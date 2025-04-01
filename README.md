@@ -1,5 +1,7 @@
 # PowerBI-Sales-Dashboard-Report
 
+See the Full Dashboard Report Here : [PowerBI App Link(https://app.powerbi.com/reportEmbed?reportId=c81769d5-6d16-4cc7-93dd-53a8e77ba251&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)]
+
 🚀 Power BI Sales Dashboard for a Chocolate Company! 🍫📊
 
 I recently developed a Power BI dashboard to analyze sales performance for a leading chocolate company. Here’s what I went into creating this insightful tool:
